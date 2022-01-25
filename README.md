@@ -1,9 +1,11 @@
 Hi there 👋 Blessing on your day. 
 
-Here's a beginner in programming language. Feel free to chat with me at `xuyang.li at smail dot nju dot edu dot cn`!
+Here's a learner in programming language. Feel free to chat with me at `xuyang.li at smail dot nju dot edu dot cn`!
 
-Writing `Coq` now, working on weak memory model and CompCert. Wanna know something about IR and type systems. Also interested in software engineering.
+Writing `Coq` now, working on CompCert. 
 
-Universe & intuition & fantasy & connections & life.
+> Dive deep and work hard.
+> 
+> See the unseen, realize the unrealized, connect the unconnected, make the unmade, express the unexpressed.
 
-2021.10.20
+2022.1.25
