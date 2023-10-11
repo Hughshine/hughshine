@@ -1,17 +1,12 @@
 Hi there 👋 Blessing on your day. 
 
-Here's a person in computer science. Feel free to chat with me at `xuyang.li at smail dot nju dot edu dot cn`!
+I'm Xuyang Li, currently a graduate student majoring in computer science at [Nanjing University](https://www.nju.edu.cn/en/). Feel free to chat with me at `xuyang.li at smail dot nju dot edu dot cn`!
 
-Academically, I'm working on CompCert now, specifically polyhedral model. Also interested in practical program analysis and formal method related techniques.
+I research on formal methods and software engineering techiques. I'm also interested in humanity (cultural aspects) and human-computer interface, creating functional and immersive softwares (or say, "art", :D) to support, expand and enrich human's perceptions and experiences within this universe.
 
-Alongside these, I'm accumulating SDE stack, to build & create wonderful and powerful tools to enrich man's life.
+For former projects, I've worked on verified compilation (see [CompCert](https://github.com/AbsInt/CompCert)) and polyhedral compilation (see [Pluto](https://github.com/bondhugula/pluto)). I also know something about relaxed concurrency (see [compiler verification on Promising Semantics](https://plax-lab.github.io/publications/promisingcomp/)). I mechanize proofs with [Coq proof assistant](https://coq.inria.fr/).
 
-Personally, I hold the idea that, rationality is logically a tool to achieve deeper and clearer sensibility. I can't help to dwell in all detail things about human's experience. Ultimately, I may head for creating experiences in one or more means. Chat with me on these topics! 
+If you're interested, just drop by [my homepage](https://hughshine.github.io)! 
 
-Hopefully I will sort out some articles and restart my blogging these days :D  
+2023.10.11
 
-> Dive deep softly.
-> 
-> Experience the unexperienced, realized the unrealized, make the unmade, express the unexpressed.
-
-2022.8.24
