@@ -1,6 +1,6 @@
 Hi there 👋 Blessing on your day. 
 
-I'm Xuyang Li, currently a graduate student majoring in computer science at [Nanjing University](https://www.nju.edu.cn/en/). Feel free to chat with me at `xuyang.li at smail dot nju dot edu dot cn`!
+I'm Xuyang Li, currently a postgraduate student majoring in computer science at [Nanjing University](https://www.nju.edu.cn/en/). Feel free to chat with me at `xuyang.li at smail dot nju dot edu dot cn`!
 
 I research on formal methods and software engineering techiques. I'm also interested in humanity (cultural aspects) and human-computer interface, creating functional and immersive softwares (or say, "art", :D) to support, expand and enrich human's perceptions and experiences within this universe.
 
