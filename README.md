@@ -1,7 +1,7 @@
 Hi there 👋 Blessing on your day. 
 
 I'm Xuyang Li, currently a 1st year PhD student working on formal methods at [Elmore Family School of Electrical and Computer Engineering
-, Purdue](https://engineering.purdue.edu/ECE). Feel free to chat with me at `li5274@purdue.edu`!
+, Purdue](https://engineering.purdue.edu/ECE). Feel free to chat with me at `li5274 at purdue dot edu`!
 
 I research on formal methods and software engineering techiques.
 
