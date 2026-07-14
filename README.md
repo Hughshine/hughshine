@@ -1,4 +1,4 @@
-Update: currently finding bugs for tile compilers (tilelang, triton, cutelass etc).
+Update: currently finding bugs for tile compilers (tilelang, triton, cutlass etc).
 
 ---
 
