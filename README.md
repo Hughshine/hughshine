@@ -1,6 +1,6 @@
 Update: 
 
-- currently finding bugs for tile compilers (tilelang, triton, cutlass etc) with agent-native designs
+- currently finding bugs for tile compilers (tilelang, triton, cutlass etc) with agent-native designs; generally verify compilation
 - end-to-end verified optimization for polyhedral compilation
 - scaling probablistic logic inference even more via specialization and approximation, and pushing its real-world applications
 
