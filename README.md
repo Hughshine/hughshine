@@ -1,8 +1,8 @@
 Update: 
 
 - currently finding bugs for tile compilers (tilelang, triton, cutlass etc) with agent-native designs (DSL compiler auditing)
-- end-to-end verified optimization for polyhedral compilation / verified optimistic optimization (runtime versioning)
-- scaling probablistic logic inference even more via program analysis, specialization and approximation, and pushing its real-world applications
+- end-to-end [verified optimization for polyhedral compilation](https://github.com/verif-scop/PolCert) / [verified optimistic optimization (runtime versioning)](https://github.com/verif-scop/GuardCert)
+- scaling probablistic logic inference even more via program analysis, specialization and approximation, and pushing its real-world applications (see [psouffle](https://github.com/psouffle-lang/psouffle))
 - ... 
 
 ---
